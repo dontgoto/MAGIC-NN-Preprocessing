@@ -1,0 +1,16 @@
+mkdir -p csv/M1/seed163750
+mkdir -p csv/M2/seed163750
+mkdir -p csv/M1/seed187956
+mkdir -p csv/M2/seed187956
+mkdir -p hdf5/M1/seed163750
+mkdir -p hdf5/M2/seed163750
+mkdir -p hdf5/M1/seed187956
+mkdir -p hdf5/M2/seed187956
+mkdir -p data/M1/seed163750
+mkdir -p data/M2/seed163750
+mkdir -p data/M1/seed187956
+mkdir -p data/M2/seed187956
+mkdir -p merged/seed163750
+mkdir -p merged/seed187956
+mkdir -p normalized/seed163750
+mkdir -p normalized/seed187956
